@@ -1,17 +1,7 @@
 # Projet_4_tweetsMe
 Simple Tweets is an android app that allows a user to view home and mentions timelines, view user profiles with user timelines, as well as compose and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: 9 hours spent in total
-
-## Related Work
-This project is the last in a series for [CodePath's Android Mobile Bootcamp for Engineers](http://codepath.com/androidbootcamp)
-
-1. **[SimpleTodo](https://github.com/kristeaac/codepath-project-0-todo)** - allows building a todo list with basic todo items management functionality including adding new items, editing and deleting an existing item
-2. **[Instagram Photo Viewer](https://github.com/kristeaac/codepath-project-1-instagram-photo-viewer)** - read-only media viewer for Instagram which allows a user to check out popular photos and videos 
-3. **[Google Image Search](https://github.com/kristeaac/codepath-project-2-google-image-search)** - a Google Image Search app which allows a user to select search filters and paginate results infinitely
-4. **[Simple Tweets](https://github.com/kristeaac/codepath-project-3-twitter-client)** - a simple Twitter client that supports viewing a Twitter timeline and composing a new tweet
-5. **Extended Simple Tweets** - an extension of the previous Twitter client to use a tabbed interface and fragments
-
+Time spent: 26 hours spent in total
 
 ## User Stories
 
@@ -71,16 +61,6 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2015 Kristy Caster
+    Copyright 2017 Dominique Charles ["LeModele"]
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+   
